@@ -1,0 +1,4 @@
+AWS:
+Account ID: 172386370082
+Username: administrator
+Password: Ascend2022$
